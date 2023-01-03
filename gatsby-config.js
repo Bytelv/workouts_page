@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: '字节君の运动网站',
     siteUrl: 'https://sport.lvbyte.tk',
-    logo: 'hhttps://c2.im5i.com/2022/12/30/Y18D2.jpeg',
+    logo: 'https://c2.im5i.com/2022/12/30/Y18D2.jpeg',
     description: '个人运动网站',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
