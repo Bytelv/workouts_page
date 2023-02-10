@@ -103,5 +103,20 @@
 "average_speed": 1.752,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8529600263,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 832.2,
+"moving_time": "0:02:56",
+"type": "Run",
+"start_date": "2023-02-09 00:29:28+00:00",
+"start_date_local": "2023-02-09 08:29:28",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 4.729,
+"source": "strava",
+"streak": 1
 }
 ]
